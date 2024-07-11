@@ -5,9 +5,10 @@
 팀명 : NULL NULL
 
 팀원 :
+
 김예현 (팀장) : Iamport API와 데이터 베이스 기반의 AJAX를 활용한 비동기 방식의 통신 및 결제 페이지 및 결제 취소를 위한 토큰 발급 기능 구현,  Github 세팅 및 관리, Validator 를 이용한 유효성 검사 구현, 카카오맵 API 를 활용하여 키워드로 검색 후 마커 클릭 시 주소를 서버에 저장하고 저장해둔 주소를 활용해 좌표를 출력해 마커 표시 기능 구현, SpringBoot와 Mybatis를 활용한 CRUD 데이터 통신
 
-신우섭 : 신우섭 : MySQL과 Intellij를 활용한 데이터베이스 설계와 테이블 생성, 공공 데이터 openAPI를 활용한 데이터 저장 및 베뉴 페이지 구현, AJAX를 활용한 비동기 방식의 통신 및 예약 페이지 구현, SpringBoot와 Mybatis를 활용한 CRUD 데이터 통신
+신우섭 : MySQL과 Intellij를 활용한 데이터베이스 설계와 테이블 생성, 공공 데이터 openAPI를 활용한 데이터 저장 및 베뉴 페이지 구현, AJAX를 활용한 비동기 방식의 통신 및 예약 페이지 구현, SpringBoot와 Mybatis를 활용한 CRUD 데이터 통신
 
 한정우 : openAPI를 활용한 데이터 불러오기 및 culture & art 페이지 구현, 마이페이지 구현, html, css, java script를 활용한 전체적인 UI구현
 
